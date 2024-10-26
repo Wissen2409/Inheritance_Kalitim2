@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inheritance_Kalitim2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ad02514faf0918a1f0e0021a787dbc194dbc30f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inheritance_Kalitim2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inheritance_Kalitim2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
